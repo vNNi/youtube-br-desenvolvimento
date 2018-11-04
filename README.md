@@ -68,4 +68,5 @@ Repositório de canais no Youtube BR sobre desenvolvimento
 [Canal Sandeco](https://www.youtube.com/channel/UCIQne9yW4TvCCNYQLszfXCQ/about)
 - O objetivo do canal é mostrar como desenvolver aplicações de Data Science, Aprendizagem de Máquina (machine Learning) utilizando grandes massas de dados contidos em armazenamentos Big Data, tudo isso de forma bem humorada.
 
-
+[Pagar.me Talks](https://www.youtube.com/channel/UCNhSCufrcOMeFvzEM7tt9Lw)
+- Canal conta com conversas sobre diversos assuntos voltados à programação, geralmente curtos e focados em um contexto específico, sempre com assuntos novos e que estão alta! 
